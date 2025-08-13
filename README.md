@@ -1,7 +1,7 @@
-# Hi there, I'm Sumit! 🙏
+# Hi there, I'm Soniya! 🙏
 
-<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api?username=thesumitshrestha&show_icons=true" />
-<img align='' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesumitshrestha&layout=compact&hide=Groovy,Java,MATLAB,C++,Powershell,FORTAN" />
+<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api?username=SoniyaPradhan&show_icons=true" />
+<img align='' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniyaPradhan&layout=compact&hide=Groovy,Java,MATLAB,C++,Powershell,FORTAN" />
 
 <img align='left' alt='Python' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
 <img align='left' alt='Pandas' src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
